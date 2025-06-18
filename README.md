@@ -37,5 +37,5 @@ This project sets up an **AWS Client VPN** using **Terraform**, enabling secure,
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/aws-client-vpn.git
+   git clone https://github.com/ayfawiyaw/AWSclientVPN.git
    cd aws-client-vpn
